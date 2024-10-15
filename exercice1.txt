@@ -1,0 +1,25 @@
+•	Enseignant : 
+
+	NOMS: M. Dupont
+	Matière : français
+	Nombre d’élèves : 132 élèves
+
+•	Enseignant
+
+
+
+	NOM : Mme Martin
+	Matière : français
+	Nombre d’élèves : 161	élèves
+
+
+•	Enseignant
+
+	NOM : Mlle Durand
+	Matière : mathématique
+	Nombre d’élèves : 143
+
+
+
+
+
